@@ -20,6 +20,10 @@ How do you send text messages to a blind person?
 ### The Solution (that nobody asked for)
 Here is a way to communicate with blind and deaf people. A keyboard that converts text messages to Braille code in real time (it has different modes!!!). Also it has a mode that converts text into morse code similarly, WITH audio(NOT your regular pings and beeps ;))..Braille for your blind friend and Morse for your deaf one. Now you can include them in the groupchat <3
 
+Basically it is an application with differeent modes of Braille and one mode of Morse code conversion. When you type in the text in a texting application (like Whatsapp), the displayed output will be according to the mode you selected. 
+
+In the Morse Mode, when you type an element, the keyboard not only converts it into Morse Code but also generates an audio sequence according to the dots and dashes. The sounds used for these dots and dashboards makes it absurd. A keyboard that is a meme! It also has an option where  the user can send these audios using the compose option. Just turn on the "compose" option, and you can type text into the given space and the keyboard will work its magic and first convert it into corresponding Morse Code, then convert the Morse code into an audio file, then. Select the app and chat you want to share the audio to, and Lo ! you have sent a Morse coded message. (Make sure to listen to it before you actually send tho🫣)
+
 ## Technical Details
 ### Technologies/Components Used
 For Software:
@@ -88,11 +92,6 @@ Mode-5: Morse Code with Audio
 
 ![WhatsApp Image 2025-08-09 at 17 56 16_69d70862](https://github.com/user-attachments/assets/59362383-f7eb-431f-820f-0f3d53b62c42)
 The share dialogue for sharing Morse code audio message
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
 
 # Additional Demos
 
