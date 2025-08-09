@@ -93,7 +93,10 @@ Mode-5: Morse Code with Audio
 ![WhatsApp Image 2025-08-09 at 17 56 16_69d70862](https://github.com/user-attachments/assets/59362383-f7eb-431f-820f-0f3d53b62c42)
 The share dialogue for sharing Morse code audio message
 
-# Additional Demos
+# Sample Morse Code Audio
+https://drive.google.com/file/d/1Pyq6UFkuVzVtndNmrVGztlxHW0i2UK_z/view?usp=sharing
+
+Reminder to make sure to wear a headphone <3
 
 
 ## Team Contributions
